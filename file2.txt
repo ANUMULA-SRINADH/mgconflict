@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is devops lab,Experiment on mgconflict
+=======
+hello hi welcome
+>>>>>>> fb
